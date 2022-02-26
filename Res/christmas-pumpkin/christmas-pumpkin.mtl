@@ -1,0 +1,58 @@
+# Blender MTL File: 'christmas-pumpkin.blend'
+# Material Count: 4
+
+newmtl Alpha
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Christmas_pumpkin_Alpha_BaseColor.png
+map_Bump Christmas_pumpkin_Alpha_Normal.png
+map_Ks Christmas_pumpkin_Alpha_Metallic.png
+map_Ka Christmas_pumpkin_Alpha_Roughness.png
+
+newmtl Base
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.114833 0.114833 0.114833
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Christmas_pumpkin_Base_BaseColor.png
+map_Bump Christmas_pumpkin_Base_Normal.png
+map_Ks Christmas_pumpkin_Base_Metallic.png
+map_Ka Christmas_pumpkin_Base_Roughness.png
+
+newmtl Details
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.654976 0.654976 0.654976
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Christmas_pumpkin_Details_BaseColor.png
+map_Bump Christmas_pumpkin_Details_Normal.png
+map_Ks Christmas_pumpkin_Details_Metallic.png
+map_Ka Christmas_pumpkin_Details_Roughness.png
+
+newmtl Translucent
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Christmas_pumpkin_Translucent_BaseColor.png
+map_Bump Christmas_pumpkin_Translucent_Normal.png
+map_Ks Christmas_pumpkin_Translucent_Metallic.png
+map_Ka Christmas_pumpkin_Translucent_Roughness.png

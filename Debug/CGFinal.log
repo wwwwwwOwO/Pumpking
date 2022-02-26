@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\hw\CG\CGFinal\shader.h(68,40): warning C4101: “e”: 未引用的局部变量
+D:\hw\CG\CGFinal\main.cpp(74,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(74,57): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(75,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(75,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(190,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(230,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\hw\CG\CGFinal\main.cpp(230,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  CGFinal.vcxproj -> D:\hw\CG\CGFinal\Debug\CGFinal.exe
