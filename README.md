@@ -7,4 +7,4 @@
 
 [动画效果预览](https://www.bilibili.com/video/BV1CT4y1D7sQ?spm_id_from=333.999.0.0)
 
-![image-20220223123409696](https://github.com/wwwwwwOwO/Pumpking/tree/main/Res/view.png)
+![image-20220223123409691](https://github.com/wwwwwwOwO/Pumpking/blob/main/Res/view.png)
